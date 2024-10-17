@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wanna-go-place-list-automation",
+  "private_key_id": "1635b10f855f18ec0cbf1b9e2ee2c454cf45a1da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQ5vYKmjRmQnXi\nDHPtKu9Wmttmhzw9KNc6vGSu/Jli6Ph0mtcB71YEIWNiAVC5/LrxxMKfVDqUnfEp\nKnzo3YlfwLI3O9Emj3aErQhjtmub7fWbyzqYViBrYkDyFR9YuaCJ2TpANy0zUx4M\no27HLyAZTgWvAShx+LMVREXJKQ+PM+eXYnzPMkIfOKgyHkJvgFE9micibAm6TliD\nFb0yvkwOWT5rpL8E1RknaFrkosG5lZht1J/JxrZkF6hzv2nu43QFV7vNRdCPtRf+\nHpLmmpHDdgr85rh33YCnxVfWb/2WuktIrWPlPkcoOIG2YJirMSEQ19dNCGYXstcu\nN6/yGwv/AgMBAAECggEAVfNZMzaMLbDVmMqf3eqG6/6uG8qzjcRifb+qu1ah85DA\nPRXCNgEXxn5ISjgZU1S5RCU9IFoC+kfbxCC/oP4ZegSqLtCVNsTbMi6RX5lcQB1R\nqyacdrYlA5m69/+Z1KMXevAeJ/Krzcy6dd++ggSRM+gmrYEP94iogi0De4dB6Bxn\nuwK2diEcEPPI9VIy56ynMhQlGL7Ogdt+dDOg7SeBIiidD8rTEuIe8RpGNbEsf1NJ\n66N0jYpyY7K5DRe0bgckysfLRRnAQ/PvJDgPcebpC0msULjCyvyyA0bFcTY48+9z\nwPCD9Dwjm08UXqe+OXfvBRDfWUPB3GAiNQVxMH482QKBgQD4TwzYeE4FgaWIykqb\n2Z8gtCbORcVEUQYXtWGm8SxbXoUNVDRv/vD5jcnoJG6lyfpGJGAyxVZc6xtlguEi\nYPula9n0lgeczY+8mkBaBbI8I0W4gT0KARl7EmYf4rR8KsXn9Z/Qe4DIScOHuEQD\nGSwStcT8JV4pBTNNHj1Lj7GSCQKBgQDXX3BKsbSUeNp8IwlofJUZ+OlGVKuZ5hve\n4rtYBxLcWWXyHT7O9PsCovki6WAPRCqv/QF9dzYecn7FzEavNkLiY/Vy+hK7B/yD\nWBCtIes51Iz304FHoLDwXpbNu9g7k+4MiVAvvjd04IeUCOLgV8SdrAGHyErYxaKX\nGdTXbGQPxwKBgQDQj2UUtQejbF+jY3YDLWiQyYAGpWepl/xsEXcyB0PggqVyqpVY\ntGOm2EcMav1c1ycVnxwFyOZfKUJbovCCNb9oFAx/eTxvoeDm4xDGDB7GkEHRVQv1\nyTKjwrJwebRqzmpoCFDxhaqHkB1hc438pDn2hSItPx21ip6qWYnWW50kMQKBgGjH\nmc39HqmNEl6KfS1ETxXPr030K3g4Jx8Ml7B/4IErTRm5eLEfJm9l8mc1uvIya8Ir\nCOqNcNrnQR3iABGGCIwzrVo+p5YukH8l/Rb+BX6hFeQMFj1OxEZs/lkhJlX15j5b\nH5PaqwhFpDA1Eouqp5E9+ZChtSg5Hpz8iDw2E4hJAoGBALy6e3zjf3RDKHXUSnPv\nBhygmG5JJvausNi4dSv8K8XjeYq0cTIO9SME6wIffu6+56fTCfFxZZZ0rCXLyoR5\n1N6zMjCjUF75BLxCwhM8xeqlqAzxE9E2PlPFSqHsspMrhJDH+jbCrpsC2CDiHfk5\nx5kHeYwnvKUeooYQ/a6yvAqR\n-----END PRIVATE KEY-----\n",
+  "client_email": "mapcrawlingbot@wanna-go-place-list-automation.iam.gserviceaccount.com",
+  "client_id": "101617233841281144664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mapcrawlingbot%40wanna-go-place-list-automation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
